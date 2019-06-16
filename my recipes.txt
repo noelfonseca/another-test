@@ -2,3 +2,5 @@ welcome!
 1st recipe: Chicken Adobo
 Ingredients:
 1. chicken
+2. vinegar
+3. soy sauce
